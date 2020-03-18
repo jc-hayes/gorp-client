@@ -1,0 +1,44 @@
+.Home .lander {
+    padding: 0px 0px;
+    text-align: center;
+  }
+  
+.Home .lander h1 {
+    padding: 40px 0px;
+    font-weight: 600;
+    font-family: "Nova Square";
+    font-size: 96px;
+    color: #1e4072;
+}
+ 
+.Home .lander p {
+    color: #FFF;
+    font-family: "Montserrat";
+    font-size: 14px;
+}
+
+.Home .trails h4 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    overflow: hidden;
+    line-height: 1;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.Home .trails h3 {
+    font-family: "Nova Square", sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    overflow: hidden;
+    line-height: 1;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    padding: 0px 0px 10px 10px;
+}
+
+.Home .trails p {
+    color: #AAA;
+    font-size: 12px;
+}

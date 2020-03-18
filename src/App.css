@@ -1,0 +1,10 @@
+.App {
+  margin-top: 15px;
+  background-color: #AAA;
+}
+
+.App .navbar-brand {
+  font-family: 'Montserrat';
+  font-weight: bolder;
+  color: #ff7c1c;
+}

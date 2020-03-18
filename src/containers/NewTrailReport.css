@@ -1,0 +1,16 @@
+.NewTrailReport {
+    padding: 0px 0px;
+    font-size: 14px;
+}
+.NewTrailReport form p {
+    margin: -30px 0px 30px;
+}
+.NewTrailReport form {
+    padding-bottom: 15px;
+    font-size: 14px;
+}
+
+.NewTrailReport form textarea {
+    height: 300px;
+    font-size: 20px;
+}
